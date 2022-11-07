@@ -1,0 +1,12 @@
+{
+  "name": "arrays-method",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GizmoDevDev/arrays-method.git",
+  "author": "Gizmo <gizmo.dev.dev@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
